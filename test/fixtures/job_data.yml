@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: MyString
+  occupation: MyString
+  average_wage: 1
+  year: 1
+  monetary_value_added: 9.99
+
+two:
+  category: MyString
+  occupation: MyString
+  average_wage: 1
+  year: 1
+  monetary_value_added: 9.99
